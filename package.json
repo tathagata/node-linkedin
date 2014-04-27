@@ -4,7 +4,7 @@
   "description": "LinkedIn 2.0 compatible wrapper in node.js",
   "main": "lib/main",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node specs/*.spec.js"
   },
   "repository": {
     "type": "git",
