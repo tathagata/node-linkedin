@@ -1,5 +1,6 @@
 node-linkedin
 ==============
+[![Build Status](https://travis-ci.org/tathagata/node-linkedin.svg?branch=master)](https://travis-ci.org/tathagata/node-linkedin)
 
 Another Linkedin wrapper in Node.js
 
